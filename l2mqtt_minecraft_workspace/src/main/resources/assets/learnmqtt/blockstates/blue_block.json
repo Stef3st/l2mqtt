@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "learnmqtt:block/blue_block"
+    }
+  }
+}

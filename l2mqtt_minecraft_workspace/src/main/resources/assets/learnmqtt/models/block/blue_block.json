@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "learnmqtt:blocks/blue",
+    "up": "learnmqtt:blocks/blue",
+    "north": "learnmqtt:blocks/blue",
+    "east": "learnmqtt:blocks/blue",
+    "south": "learnmqtt:blocks/blue",
+    "west": "learnmqtt:blocks/blue",
+    "particle": "learnmqtt:blocks/blue"
+  }
+}

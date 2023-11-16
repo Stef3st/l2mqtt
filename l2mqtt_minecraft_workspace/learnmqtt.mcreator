@@ -1,0 +1,135 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "GreenBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_block"
+    },
+    {
+      "name": "BlueBlock",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_block"
+    },
+    {
+      "name": "RedBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_block"
+    },
+    {
+      "name": "BlueLedOff",
+      "type": "procedure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "blue_led_off",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "RedLedOff",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "red_led_off",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "BlueLedOn",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "blue_led_on",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "RedLedOn",
+      "type": "procedure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "red_led_on",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "GreenLedOn",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "green_led_on",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "GreenLedOff",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "green_led_off",
+      "metadata": {
+        "dependencies": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.learnmqtt.blue_block": "BlueMqtt",
+      "block.learnmqtt.green_block": "GreenMqtt",
+      "block.learnmqtt.red_block": "RedMqtt"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "learnmqtt",
+    "modName": "LearnMqtt",
+    "version": "1.0.0",
+    "author": "Steff, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.learnmqtt",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}
